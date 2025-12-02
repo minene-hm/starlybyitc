@@ -1,0 +1,39 @@
+
+.area-chart-container {
+  background: white;
+  padding: 10px;
+  width: 870px; 
+  height: 400px; 
+  margin-left: -40px;
+}
+.area-chart-container canvas {
+  width: 100% ;
+  height: 100% ;
+}
+
+@media (max-width: 1200px) {
+  .area-chart-container {
+    height: 350px;
+  }
+}
+
+@media (max-width: 992px) {
+  .area-chart-container {
+    height: 300px;
+    padding: 8px;
+  }
+}
+
+@media (max-width: 768px) {
+  .area-chart-container {
+    height: 500px;
+    padding: 6px;
+  }
+}
+
+@media (max-width: 480px) {
+  .area-chart-container {
+    height: 500px;
+    padding: 4px;
+  }
+}
