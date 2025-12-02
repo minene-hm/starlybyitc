@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/starlybyitc/static/css/main.bce7a2d5.css",
+    "main.js": "/starlybyitc/static/js/main.3b67301b.js",
+    "static/media/logo.png": "/starlybyitc/static/media/logo.99e57cead5d5fa31892d.png",
+    "index.html": "/starlybyitc/index.html",
+    "main.bce7a2d5.css.map": "/starlybyitc/static/css/main.bce7a2d5.css.map",
+    "main.3b67301b.js.map": "/starlybyitc/static/js/main.3b67301b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bce7a2d5.css",
+    "static/js/main.3b67301b.js"
+  ]
+}
