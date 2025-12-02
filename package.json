@@ -1,8 +1,8 @@
 {
+  "homepage": "https://minene-hm.github.io/starlybyitc",
   "name": "starlybyitc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://minene-hm.github.io/starlybyitc",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^7.1.0",
     "@fortawesome/free-brands-svg-icons": "^7.1.0",
